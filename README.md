@@ -5,7 +5,7 @@ Here we are using genetic algorithm and simulated annealing for optimizing the B
 
   ![image](https://user-images.githubusercontent.com/64432440/115115783-ee3efd80-9fb3-11eb-8ac7-e7add98afe75.png)
   
-Steps:
+Steps:<br/>
 Step 1: Imported libraries numpy, random, math<br/>
 Step 2: Declared values for N, population_size, D, k, insti_cost, rD<br/>
 Step 3: Stored the values for loan size, loan interest rate, loss<br/>
