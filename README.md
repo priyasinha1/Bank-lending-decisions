@@ -26,6 +26,7 @@ Step 17: Printing the value of the best solution and respective chromosome.<br/>
 
 Result:
 
+
 ![image](https://user-images.githubusercontent.com/64432440/115115932-aa002d00-9fb4-11eb-8ca1-1cfd97b55b6d.png)<br/>
 Best solution obtained so far:<br/>
 Chromosomes: [1 0 1 1 0 1 0 0 1 1]<br/>
